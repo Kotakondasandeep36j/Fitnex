@@ -1,0 +1,35 @@
+{
+  "name": "FITNEX Bulk Generator",
+  "short_name": "FITNEX",
+  "description": "Generate personalized FITNEX weekly score cards in bulk from weekly fitness scores.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "theme_color": "#101417",
+  "background_color": "#0d1114",
+  "lang": "en",
+  "categories": ["productivity", "utilities", "health"] ,
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
